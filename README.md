@@ -1,1 +1,2 @@
-# Sharing python notebooks from my Machine Learning course assignments
+# IGTI - Machine Learning
+Sharing python notebooks from my Machine Learning course assignments
